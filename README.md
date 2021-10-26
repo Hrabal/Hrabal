@@ -4,7 +4,6 @@
   <a href="https://www.linkedin.com/in/federico-cerchiari-4b0a9a45"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="https://stackoverflow.com/users/3008185/hrabal"><img src="https://img.shields.io/stackexchange/stackoverflow/r/3008185?style=for-the-badge" alt="StackOverflow" /></a>&nbsp;</p>
 </p><br />
-<h3 align="center">About me</h3>
 <p>
 Backend coder<br>
 Timezone: Europe/Rome (CET)
@@ -13,5 +12,11 @@ Timezone: Europe/Rome (CET)
 <img src="https://github-readme-stats.vercel.app/api?username=Hrabal&theme=noctis_minimus&show_icons=true&count_private=true" width="400"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrabal&layout=compact&theme=noctis_minimus%count_private=true" width="400" />
 </p>
-
-
+<p align="center">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hrabal&repo=tempy&theme=noctis_minimus" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hrabal&repo=FlaskBase&theme=noctis_minimus" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hrabal&repo=YellowGen&theme=noctis_minimus" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hrabal&repo=ClassCLI&theme=noctis_minimus" width="400"/>
+  </p>
+</p>
