@@ -14,9 +14,9 @@ Timezone: Europe/Rome (CET)
 </p>
 <p align="center">
   <p align="center">
-    <a href="https://github.com/Hrabal/TemPy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hrabal&repo=tempy&theme=noctis_minimus" width="400"/></a>
-    <a href="https://github.com/Hrabal/FlaskBase"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hrabal&repo=FlaskBase&theme=noctis_minimus" width="400"/></a>
-    <a href="https://github.com/Hrabal/YellowGen"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hrabal&repo=YellowGen&theme=noctis_minimus" width="400"/></a>
-    <a href="https://github.com/Hrabal/ClassCLI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hrabal&repo=ClassCLI&theme=noctis_minimus" width="400"/></a>
+    <a target="_blank" href="https://github.com/Hrabal/TemPy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hrabal&repo=tempy&theme=noctis_minimus" width="400"/></a>
+    <a target="_blank" href="https://github.com/Hrabal/FlaskBase"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hrabal&repo=FlaskBase&theme=noctis_minimus" width="400"/></a>
+    <a target="_blank" href="https://github.com/Hrabal/YellowGen"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hrabal&repo=YellowGen&theme=noctis_minimus" width="400"/></a>
+    <a target="_blank" href="https://github.com/Hrabal/ClassCLI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hrabal&repo=ClassCLI&theme=noctis_minimus" width="400"/></a>
   </p>
 </p>
