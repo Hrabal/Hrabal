@@ -9,8 +9,8 @@ Backend coder<br>
 Timezone: Europe/Rome (CET)
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Hrabal&theme=noctis_minimus&show_icons=true&count_private=true" width="400"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrabal&layout=compact&theme=noctis_minimus%count_private=true" width="400" />
+<img src="https://github-readme-stats-2rs0xx37i-hrabal.vercel.app/api?username=Hrabal&theme=noctis_minimus&show_icons=true&count_private=true" width="400"/>
+<img src="https://github-readme-stats-2rs0xx37i-hrabal.vercel.app/api/top-langs/?username=Hrabal&layout=compact&theme=noctis_minimus&count_private=true&hide=html,css&count_weight=2&include_all_commits=true" width="400" />
 </p>
 <p align="center">
   <p align="center">
